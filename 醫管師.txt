@@ -1,0 +1,7 @@
+ATM(Asynchronous Transfer Mode) 
+
+超高速乙太網路(Gigabit Ethernet):採用 CSMA/CD 通訊協定、採用 IEEE 802.3 之標準規範、可以使用 SNMP 管理介面、可使用非遮蔽雙絞線(UTP)或光纖的線材佈線
+
+ADE(adverse drug event) 藥物不良事件
+
+平衡計分卡(balanced scorecard，簡稱BSC)是以財務、顧客、內部流程、學習與成長四個構面
